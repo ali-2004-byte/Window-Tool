@@ -1,4 +1,4 @@
-# **NeuralLink Solutions**  
+# **Window Tool**  
 _A Multifunctional Desktop Application for Windows_
 
 ---
